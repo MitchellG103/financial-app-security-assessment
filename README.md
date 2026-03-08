@@ -72,7 +72,7 @@ Remote employees connect through a VPN gateway, and network traffic passes throu
 
 The following diagram illustrates the simplified network architecture evaluated in this security assessment.
 
-![Architecture Diagram](architecture-diagram.drawio.png)
+![Architecture Diagram](Architecture-Diagram.drawio.png)
 
 ---
 
