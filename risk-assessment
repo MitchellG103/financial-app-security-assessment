@@ -105,12 +105,12 @@ through firewall rules or VPN connections. Administrative access should also be 
 
 | Risk | Likelihood | Impact | Priority |
 |-----|-----|-----|-----|
-| Legacy FTP Payroll Transfers | Medium | High | High |
-| Outdated TLS Versions | Medium | High | High |
-| Cleartext Financial Database | Medium | High | Critical |
-| Split-Tunnel VPN | Medium | High | High |
-| Lack of Centralized Monitoring | High | Medium | High |
-| Unsecured RDP Administrative Access | Medium | High | Critical |
+| Legacy FTP Payroll Transfers        | Medium | High   | High |
+| Outdated TLS Versions               | Medium | High   | High |
+| Cleartext Financial Database        | Medium | High   | Critical |
+| Split-Tunnel VPN                    | Medium | High   | High |
+| Lack of Centralized Monitoring      | High   | Medium | High |
+| Unsecured RDP Administrative Access | Medium | High   | Critical |
 
 #Risk Assessment Summary
 The FinSecure infrastructure contains several security weaknesses related to outdated protocols, insufficient encryption, network configuration issues, and limited monitoring capabilities.
