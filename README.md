@@ -5,6 +5,10 @@ This project documents a security risk assessment and mitigation strategy for a 
 
 The assessment identifies potential threats, evaluates risk levels, and proposes security controls aligned with industry frameworks such as the NIST Cybersecurity Framework.
 
+## System Architecture
+
+![Architecture Diagram](architecture-diagram.png)
+
 ## Objectives
 
 • Identify security vulnerabilities within the system architecture  
