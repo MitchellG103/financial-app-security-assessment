@@ -32,7 +32,7 @@ Access to one system should not allow access to all other systems. Enforce least
 ## Attack 3: Unencrypted Data Transmission
 
 Explaination: Sensitive data may be sent across the network without encryption. Attackers can intercept this data and view the information in plaintext. This information could be credentials, financial information, or
-customer data. All of this can be obtained through very simple packet sniffing techniques that many people with limited knowledge can use. 
+customer data. All of this can be obtained through very simple packet sniffing techniques. 
 
 Mitigation:
 Ensure all traffic is encrypted. When tranferring files on the network use SFTP or FTPS and when sending information to third parties, use HTTPS with TLS 1.2 or TLS 1.3. Enforce encrypted communications between servers,
