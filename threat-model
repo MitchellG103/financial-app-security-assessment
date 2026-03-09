@@ -73,3 +73,16 @@ Enforce strong access controls such as multi factor authentication and role base
 audits must be performed to ensure there is no privilege escalation or no employee has any privileges that they should not have. 
 
 ---
+
+# Risk Prioritization
+
+| Attack | Likelihood | Impact | Risk Level |
+|------|------|------|------|
+| RDP Without Authentication          | High   | High   | Critical |
+| Flat Network Architecture           | High   | High   | Critical |
+| Unencrypted Data Transmission       | Medium | High   | High     |
+| Single Point of Failure             | Medium | Medium | Medium   |
+| Insufficient Monitoring and Logging | High   | Medium | High     |
+| Weak Access Control Policies        | High   | High   | Critical |
+
+Risk levels were determined by evaluating how easily an attacker could exploit each vulnerability and the potential damage that exploitation could cause to the organization.
