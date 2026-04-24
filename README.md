@@ -5,7 +5,7 @@ This project presents a security assessment of FinSecure network architecture in
 The assessment analyzes the system architecture, operational practices, and data handling procedures to determine where vulnerabilities may exist within the environment
 
 Several security risks were identified during the assessment. Some of the most significant risks include unsecured administrative access through Remote Desktop Protocol (RDP), a flat network architecture that could allow attackers
-to move laterally between systems, weak encryption practices during data transmission, and the lack of centralized monitoring capabilities. These weakness could allow attackers to gain unauthorized access to internal systems, 
+to move laterally between systems, weak encryption practices during data transmission, and the lack of centralized monitoring capabilities. These weaknesses could allow attackers to gain unauthorized access to internal systems, 
 intercept sensitive data being transmitted on the network, and remain undetected on the network for extended periods of time.
 
 To reduce these risks, several security improvements are recommended. These include implementing stronger authentication controls for administrative access, introducing network segmentation to limit lateral movement, enforcing
